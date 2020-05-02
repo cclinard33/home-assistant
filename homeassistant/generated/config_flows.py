@@ -21,6 +21,7 @@ FLOWS = [
     "deconz",
     "dialogflow",
     "ecobee",
+    "edilkamin_climate",
     "elgato",
     "emulated_roku",
     "esphome",

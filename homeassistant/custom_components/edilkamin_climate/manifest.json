@@ -1,0 +1,14 @@
+{
+  "domain": "edilkamin_climate",
+  "name": "Edilkamin Climate",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/edilkamin_climate",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@cclinard33"
+  ]
+}
